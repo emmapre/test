@@ -13,7 +13,6 @@ const pokemons = [
   "Pikachu",
   "Pidgey"
 ];
-
 const countThem = () => {
   // print out, in a sentence, how many pokemons I have.
   // like: "I have x pokemons!"
